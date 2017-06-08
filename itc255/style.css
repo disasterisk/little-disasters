@@ -1,0 +1,50 @@
+.wrapper {
+  display: block;
+  width: 75%;
+  margin: 0 auto;
+  border: 1px solid #000;
+  min-width: 800px;
+  min-height: 200px;
+}
+header hr {
+  clear: both;
+  margin: 0 1em;
+}
+main {
+  margin: 2em auto;
+  width: 90%;
+  clear: both;
+}
+.formLabel {
+  display: inline-block;
+  width: 20%;
+  margin: .1em 1em;
+}
+.formInput {
+  display: inline-block;
+  width: 20%;
+  margin: .1em 1em;
+}
+p {
+  font-size: 1.25em;
+}
+.title{
+  margin-left: 1.5em;
+  float: left;
+  width: 75%;
+  height: 5em;
+  font-size: 1.5em;
+}
+.loginText {
+  margin: 1em;
+  float: right;
+  font-size: .8em;
+  width: 15%;
+  text-align: right;
+}
+.loginText a {
+  margin: 0 .5em;
+}
+.submitButton{
+  text-align: center;
+}
